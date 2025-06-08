@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ListView Spinner AutoComplete TextView</string>
+    <string name="next_page">Next</string>
+    <string name="hello">Hello, ConstraintLayout!</string>
+    <string name="img_desc1">Image Description 1</string>
+    <string name="img_desc2">Image Description 2</string>
+    <string name="img_desc3">Image Description 3</string>
+</resources>
